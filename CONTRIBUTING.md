@@ -1,4 +1,4 @@
-# Contributing to Daytona Content Programme
+read how tom write content # Contributing to Daytona Content Programme
 
 Thank you for your interest in contributing to the Daytona Content Programme! This document outlines the process and guidelines for contributing to our repository.
 
